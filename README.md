@@ -1,6 +1,6 @@
 # guide-to-OCaml
 
-I'm a CSE student at NFSU learning OCaml for quant finance and systems programming. 
+I'm a CSE student , learning OCaml for quant finance and systems programming. 
 This repo is my notes, examples and projects as I go deeper into the language.
 
 Adding 2-3 examples daily — from hello world to async systems.
