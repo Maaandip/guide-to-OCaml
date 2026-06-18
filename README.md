@@ -18,7 +18,7 @@ bugs before runtime. Worth learning if you're into finance or systems.
 | 01_basics | variables, functions, recursion, etc |
 | 02_data_types | lists, tuples, records, variants, etc |
 | 03_functional | map, filter, fold, closures, etc |
-| 04_advanced | modules, functors, async |
+| 04_advanced | modules, functors, async, etc |
 | 05_projects | real projects |
 
 ## setup
