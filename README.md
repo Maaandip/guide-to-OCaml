@@ -15,7 +15,7 @@ bugs before runtime. Worth learning if you're into finance or systems.
 
 | folder | what's inside |
 |--------|--------------|
-| 01_basics | variables, functions, recursion |
+| 01_basics | variables, functions, recursion, etc |
 | 02_data_types | lists, tuples, records, variants |
 | 03_functional | map, filter, fold, closures |
 | 04_advanced | modules, functors, async |
