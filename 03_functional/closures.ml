@@ -3,7 +3,7 @@
    even after that outer function has finished running
    this is the foundation of functional programming *)
 
-(* simple closure - counter *)
+(* Simple closure - counter *)
 let make_counter () =
   let count = ref 0 in
   fun () ->
