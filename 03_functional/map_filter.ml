@@ -2,7 +2,7 @@
    the three most important functions in functional programming
    master these and you understand functional programming *)
 
-(* map - transform every element, same list length *)
+(* Map - transform every element, same list length *)
 let demo_map lst =
   Printf.printf "original:        ";
   List.iter (fun x -> Printf.printf "%d " x) lst;
