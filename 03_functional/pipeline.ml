@@ -1,7 +1,7 @@
 (* Function composition and pipelines in OCaml
    the |> operator is one of the most loved features
    it lets you write code that reads left to right
-   like a real pipeline of data transformations *)
+   like a real Pipeline of data transformations *)
 
 (* without pipe operator - hard to read, inside out *)
 let process_old lst =
