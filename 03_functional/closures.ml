@@ -10,7 +10,7 @@ let make_counter () =
     count := !count + 1;
     !count
 
-(* closure with parameter - multiplier factory *)
+(* Closure with parameter - multiplier factory *)
 let make_multiplier factor =
   fun x -> x * factor
 
