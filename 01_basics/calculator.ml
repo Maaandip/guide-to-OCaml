@@ -5,7 +5,7 @@
    let add a b = a +. b
    let sub a b = a -. b
    let mul a b = a *. b
-   let div a b =
+   let div a b = 
      if b = 0.0 then
        (Printf.printf "error: cannot divide by zero\n"; 0.0)
      else a /. b
