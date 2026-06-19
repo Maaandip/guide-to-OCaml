@@ -1,4 +1,4 @@
-(* closures in OCaml
+(* Closures in OCaml
    a function that "remembers" variables from where it was created
    even after that outer function has finished running
    this is the foundation of functional programming *)
