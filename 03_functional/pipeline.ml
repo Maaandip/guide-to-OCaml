@@ -16,7 +16,7 @@ let process_new lst =
   |> List.map (fun x -> x * x)
   |> List.fold_left (+) 0
 
-(* function composition using >> style (custom operator) *)
+(* Function composition using >> style (custom operator) *)
 let (>>) f g x = g (f x)
 
 let double x = x * 2
