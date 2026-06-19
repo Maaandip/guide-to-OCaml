@@ -1,4 +1,4 @@
-(* fizzbuzz the functional way
+(* Fizzbuzz the functional way
    classic interview question solved using
    higher order functions instead of if-else chains *)
 
