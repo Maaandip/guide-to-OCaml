@@ -1,5 +1,5 @@
 (* Fizzbuzz the functional way
-   classic interview question solved using
+   Classic interview question solved using
    higher order functions instead of if-else chains *)
 
 (* a rule is a function that returns Some string if it matches
