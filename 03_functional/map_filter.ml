@@ -1,4 +1,4 @@
-(* map, filter and fold in OCaml
+(* Map, filter and fold in OCaml
    the three most important functions in functional programming
    master these and you understand functional programming *)
 
