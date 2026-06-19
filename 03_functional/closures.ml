@@ -14,7 +14,7 @@ let make_counter () =
 let make_multiplier factor =
   fun x -> x * factor
 
-(* closure that captures multiple values *)
+(* Closure that captures multiple values *)
 let make_bank_account initial_balance =
   let balance = ref initial_balance in
   let deposit amount =
