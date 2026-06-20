@@ -1,4 +1,4 @@
-(* modules in OCaml
+(* Modules in OCaml
    modules group related functions and types together
    like namespaces in C++ or packages in Java
    helps organize larger codebases *)
