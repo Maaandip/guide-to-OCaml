@@ -3,7 +3,7 @@
    like namespaces in C++ or packages in Java
    helps organize larger codebases *)
 
-(* define a module *)
+(* Define a module *)
 module MathUtils = struct
   let pi = 3.14159
 
