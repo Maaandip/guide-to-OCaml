@@ -38,7 +38,7 @@ module StringUtils = struct
     ) 0 s
 end
 
-(* using the modules with dot notation *)
+(* Using the modules with dot notation *)
 let () =
   Printf.printf "=== math utils module ===\n";
   Printf.printf "enter a number to check prime: ";
