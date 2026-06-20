@@ -1,5 +1,5 @@
 (* Functors in OCaml
-   a functor is a module that takes another module as input
+   a Functor is a module that takes another module as input
    and produces a new module - "functions for modules"
    this is what makes OCaml's type system so powerful *)
 
