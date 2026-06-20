@@ -9,7 +9,7 @@ module type COMPARABLE = sig
   val compare : t -> t -> int
 end
 
-(* a functor that creates sorting functions for any comparable type *)
+(* a Functor that creates sorting functions for any comparable type *)
 module MakeSorter (C : COMPARABLE) = struct
   let sort lst =
     List.sort C.compare lst
