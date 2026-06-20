@@ -1,4 +1,4 @@
-(* mini RPG battle game using modules
+(* Mini RPG battle game using modules
    combines modules, records, recursion and pattern matching
    simple turn based battle system *)
 
