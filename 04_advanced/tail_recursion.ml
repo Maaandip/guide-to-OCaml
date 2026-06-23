@@ -15,7 +15,7 @@ let factorial_tail n =
   let rec aux n acc =
     if n <= 1 then acc
     else aux (n - 1) (n * acc)
-    (* tail call: last thing is the recursive call itself *)
+    (* Tail call: last thing is the recursive call itself *)
   in
   aux n 1
 
