@@ -1,5 +1,5 @@
 (* Tail recursion in OCaml
-   normal recursion builds up stack frames and can crash
+   Normal recursion builds up stack frames and can crash
    tail recursion reuses the same stack frame - much safer
    OCaml optimizes tail calls automatically *)
 
