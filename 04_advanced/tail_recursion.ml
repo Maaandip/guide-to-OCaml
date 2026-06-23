@@ -19,7 +19,7 @@ let factorial_tail n =
   in
   aux n 1
 
-(* tail recursive fibonacci *)
+(* Tail recursive fibonacci *)
 let fibonacci_tail n =
   let rec aux n a b =
     if n = 0 then a
