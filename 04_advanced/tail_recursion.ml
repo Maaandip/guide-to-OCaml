@@ -10,7 +10,7 @@ let rec factorial_normal n =
   (* problem: n * ... means it has to wait for recursive call
      builds up stack like: 5 * (4 * (3 * (2 * 1))) *)
 
-(* tail recursive version using accumulator *)
+(* Tail recursive version using accumulator *)
 let factorial_tail n =
   let rec aux n acc =
     if n <= 1 then acc
