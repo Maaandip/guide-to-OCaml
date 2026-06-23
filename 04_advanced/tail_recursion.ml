@@ -3,7 +3,7 @@
    Tail recursion reuses the same stack frame - much safer
    OCaml optimizes tail calls automatically *)
 
-(* normal recursion - NOT tail recursive *)
+(* Normal recursion - NOT tail recursive *)
 let rec factorial_normal n =
   if n <= 1 then 1
   else n * factorial_normal (n - 1)
